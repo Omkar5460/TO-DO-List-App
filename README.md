@@ -1,2 +1,1 @@
-# LGMTask1
-To Do List
+Using a to do web app can help people increase their productivity and stay organized by keeping track of their tasks in one place. It is an essential tool for anyone looking to improve their time management skills and get more done each day.

@@ -35,7 +35,12 @@ header h1{
 	color: rgb(251, 4, 148);
 	margin-bottom: 1rem;
 }
-
+header h3{ 
+	font-size: 2.5rem;
+	font-weight: 300;
+	color: rgb(50, 6, 32);
+	margin-bottom: 1rem;
+}
 #new-task-form {
 	display: flex;;
 }
